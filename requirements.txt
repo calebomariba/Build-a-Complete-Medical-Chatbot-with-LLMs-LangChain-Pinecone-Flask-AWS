@@ -8,3 +8,5 @@ langchain-core
 flask
 python-dotenv
 pinecone
+langchain-huggingface
+sentence-transformers
